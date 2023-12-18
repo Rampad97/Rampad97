@@ -28,8 +28,8 @@
   <img decoding="async" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="powerpoint"/>
   <img decoding="async" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img decoding="async" src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="miro"/>
-  <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreSQL"/>
   <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
+  <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreSQL"/>
   <img decoding="async" src="https://img.shields.io/badge/Postman-ff8000?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   <img decoding="async" src="https://img.shields.io/badge/Android_Studio-6DB33F?style=for-the-badge&logo=android&logoColor=white" alt="Android_Studio"/>
   <img decoding="async" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
